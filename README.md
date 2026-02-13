@@ -1,47 +1,38 @@
-## Hi, I'm BlazorRider
+## Why do projects fail?
 
-Enterprise Software Architect with 25+ years of experience building large-scale systems for major European financial institutions, leading logistics corporations, and German federal agencies.
+Not because of bad developers. Not because of wrong technology choices.
 
-Currently focused on a large-scale government digitalization project with .NET 10, Blazor Server, ABP.io, and DDD.
+**Because spec and code drift apart** — silently, inevitably, expensively.
 
-#### What I Work With
+I've spent 25+ years watching this happen in enterprise software. Process models that nobody reads. Architecture documents that are outdated before the first sprint ends. Governance tools that cost six figures annually and still can't tell you whether the code matches the spec.
 
-- **Languages & Frameworks:** C#, .NET 10, Blazor Server, ABP.io
-- **Architecture:** Domain-Driven Design, CQRS, Modular Monolith
-- **Cloud & DevOps:** Azure, Azure DevOps, CI/CD
-- **AI-Assisted Development:** MCP (Model Context Protocol), Roslyn Code Analysis
-- **Methods:** TOGAF, CMMI, Scrum
+The pattern repeats:
+- **2000s:** Formal process modeling — powerful but disconnected from code (ARIS, €500k+/year)
+- **2010s:** Model-based test automation — testability built into the model (TOSCA, €100k+/year)
+- **2020s:** Static code analysis — governance needs tooling (€30k+/year)
+- **2025:** LLMs + MCP = the same principle, finally accessible. €0 license cost.
 
-#### What I Focus On
-
-- Brownfield modernization of complex enterprise systems
-- Domain-Driven Design in real-world, regulated environments
-- MCP-based tooling for AI-assisted development workflows
-- Bridging the gap between architecture theory and production code
-
-*Practitioner, not influencer. I share what works in production.*
+The insight isn't new. The tooling finally is.
 
 ---
 
-## Hallo, ich bin BlazorRider
+### What I'm Working On
 
-Enterprise Software Architekt mit über 25 Jahren Erfahrung in der Entwicklung großer Systeme für europäische Finanzinstitutionen, führende Logistikkonzerne und deutsche Bundesbehörden.
+**Spec-First Development with MCP-Powered Gap Detection** — a methodology where AI doesn't just generate code, but continuously validates that code matches architectural intent. Built and validated in a large-scale government digitalization project (170k+ LOC, C#/.NET 10, Blazor, ABP.io, DDD).
 
-Aktuell arbeite ich an einem großen Behörden-Digitalisierungsprojekt mit .NET 10, Blazor Server, ABP.io und Domain-Driven Design.
+The full methodology is documented as an RFC:
+**[Spec-First Development with MCP-Powered Gap Detection →](https://github.com/BlazorRider/spec-first-rfc/blob/main/RFC.md)**
 
-#### Womit ich arbeite
+---
 
-- **Sprachen & Frameworks:** C#, .NET 10, Blazor Server, ABP.io
-- **Architektur:** Domain-Driven Design, CQRS, Modularer Monolith
-- **Cloud & DevOps:** Azure, Azure DevOps, CI/CD
-- **KI-gestützte Entwicklung:** MCP (Model Context Protocol), Roslyn Code-Analyse
-- **Methoden:** TOGAF, CMMI, Scrum
+### Tech Stack
 
-#### Mein Fokus
+C# | .NET 10 | Blazor Server | ABP.io | Domain-Driven Design | MCP | Roslyn
 
-- Brownfield-Modernisierung komplexer Enterprise-Systeme
-- Domain-Driven Design in regulierten Umgebungen
-- MCP-basiertes Tooling für KI-gestützte Entwicklungsworkflows
-- Die Brücke zwischen Architekturtheorie und produktivem Code
+---
 
-*Practitioner, kein Influencer. Ich teile, was in Produktion funktioniert.*
+### Connect
+
+- [Twitter/X: @BlazorRider](https://twitter.com/BlazorRider)
+
+*Practitioner, not influencer. I share what works in production — including what doesn't.*
