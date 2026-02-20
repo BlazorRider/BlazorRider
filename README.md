@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi, I'm BlazorRider
 
-<!--
-**BlazorRider/BlazorRider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enterprise Software Architect with 25+ years of experience building large-scale systems for European financial institutions, logistics corporations, and German federal agencies.
 
-Here are some ideas to get you started:
+Currently working on a government digitalization project with .NET 10, Blazor Server, ABP.io, and Domain-Driven Design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I Focus On
+
+- Brownfield modernization of complex enterprise systems
+- Domain-Driven Design in real-world, regulated environments
+- AI-assisted development workflows with MCP and Roslyn
+- Bridging the gap between architecture decisions and production code
+
+---
+
+### Tech Stack
+
+C# | .NET 10 | Blazor Server | ABP.io | Domain-Driven Design | MCP | Roslyn
+
+---
+
+### Connect
+
+- [Twitter/X: @BlazorRider](https://twitter.com/BlazorRider)
+
+*Practitioner, not influencer. I share what works in production — including what doesn't.*
